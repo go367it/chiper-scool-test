@@ -20,23 +20,23 @@ const data = [
     company: 'Pro Music Tools',
     address: 'Le Harve, France',
     cost: '1,831.57',
-    shippingCharge: '195'
+    shippingCharge: '244.36'
   },
   {
     image : image3,
-    title : 'Nord Stage 3 88 Keys',
+    title : 'Nord Lead A1',
     company: 'Gear Garage',
     address: 'Le Harve, France',
     cost: '1.700',
-    shippingCharge: '195'
+    shippingCharge: '35'
   },
   {
     image : image4,
-    title : 'Nord Stage 3 88 Keys',
-    company: 'E.M.L.M Music',
+    title : 'Moog Subsequent 37',
+    company: 'TURNLAB',
     address: 'Le Harve, France',
     cost: '628.80',
-    shippingCharge: '195'
+    shippingCharge: '205'
   }
 ]
 

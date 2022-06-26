@@ -5,9 +5,11 @@ const Card = (props) => {
     <div className="w-full border border-gray-400 rounded-md p-4 md:flex justify-between">
       <div className="flex items-start space-x-4">
         <img className=" h-24 w-30" alt="" src={props.image} />
-        <div className=" text-start">
+        <div className=" text-start space-y-2">
           <h2 className=" text-2xl font-semibold">{props.title}</h2>
-          khh
+          <div className="p-1 bg-orange-300 w-28 text-center rounded-md text-orange-500 opacity-80">
+            Brand New
+          </div>
         </div>
       </div>
       <div className="flex space-x-4 items-center">
